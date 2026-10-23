@@ -95,3 +95,11 @@ Track up to 5 quests at once with live progress updates.
 ## License
 
 GNU Affero General Public License v3. See [LICENSE](LICENSE).
+
+---
+
+## Support ☕
+
+If my work saves you time, you can fuel the next project:
+
+<a href="https://www.buymeacoffee.com/rdiol12" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" height="32"></a>
